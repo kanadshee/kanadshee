@@ -1,10 +1,10 @@
-<h1 align="center">Kanad Shee</h1>
+<h1>Kanad Shee</h1>
 
-<p align="center">
+<p>
   Full-Stack Developer · AI Engineering Enthusiast
 </p>
 
-<p align="center">
+<p>
   <a href="https://kanaddev.me">Website</a>
   ·
   <a href="https://github.com/kanadshee">GitHub</a>
@@ -16,10 +16,10 @@
   <a href="https://twitter.com/kanad_shee">X / Twitter</a>
 </p>
 
-<p align="center">
+<p>
   I'm a Full-Stack Developer focused on building reliable, scalable web applications and exploring AI engineering.
 </p>
-<p align="center">
+<p>
   I enjoy working across the stack — from designing interfaces and APIs to databases, distributed systems, real-time applications, and cloud infrastructure.
 </p>
 
