@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://kanaddev.me">Website</a>
   ·
-  <a href="https://github.com/KanadShee-18">GitHub</a>
+  <a href="https://github.com/kanadshee">GitHub</a>
   ·
   <a href="https://www.linkedin.com/in/kanadshee">LinkedIn</a>
   ·
@@ -97,7 +97,7 @@ Currently, I'm going deeper into:
 <p align="center">
   <a href="https://kanaddev.me">Website</a>
   ·
-  <a href="https://github.com/KanadShee-18">GitHub</a>
+  <a href="https://github.com/kanadshee">GitHub</a>
   ·
   <a href="https://www.linkedin.com/in/kanadshee">LinkedIn</a>
   ·
