@@ -88,24 +88,9 @@ Currently, I'm going deeper into:
 
 ## Currently Learning
 
-| AI Engineering | Infrastructure      | Backend               |
-| :------------- | :------------------ | :-------------------- |
-| RAG · LLMs     | Docker · Kubernetes | Distributed Systems   |
-| AI Agents      | CI/CD · Cloud       | Event-Driven Systems  |
-| Evaluation     | Cloud Architecture  | Kafka · System Design |
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanadShee-18&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=false" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanadShee-18&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KanadShee-18&hide_border=true&theme=transparent" height="165">
-</p>
-
----
+- **AI Engineering** — RAG · LLMs · AI Agents · Evaluation
+- **Infrastructure** — Docker · Kubernetes · CI/CD · Cloud Architecture
+- **Backend** — Distributed Systems · Event-Driven Systems · Kafka · System Design
 
 ## Connect
 
