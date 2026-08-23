@@ -1,8 +1,8 @@
 <h1>Kanad Shee</h1>
 
-<p>
+<h4>
   Full-Stack Developer · AI Engineering Enthusiast
-</p>
+</h4>
 
 <p>
   <a href="https://kanaddev.me">Website</a>
