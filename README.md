@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-    <img src="dark_mode.svg" alt="Kanad Shee GitHub profile">
-  </picture>
-</p>
-
 <h1 align="center">Kanad Shee</h1>
 
 <p align="center">
@@ -20,22 +12,24 @@
   <a href="https://www.linkedin.com/in/kanadshee">LinkedIn</a>
   ·
   <a href="https://leetcode.com/kanad_shee">LeetCode</a>
+  .
+  <a href="https://twitter.com/kanad_shee">X / Twitter</a>
 </p>
 
----
+<p align="center">
+  I'm a Full-Stack Developer focused on building reliable, scalable web applications and exploring AI engineering.
+</p>
+<p align="center">
+  I enjoy working across the stack — from designing interfaces and APIs to databases, distributed systems, real-time applications, and cloud infrastructure.
+</p>
 
-## About
-
-I'm a Full-Stack Developer focused on building reliable, scalable web applications and exploring AI engineering.
-
-I enjoy working across the stack — from designing interfaces and APIs to databases, distributed systems, real-time applications, and cloud infrastructure.
-
-Currently, I'm going deeper into:
-
-- **AI Engineering** — LLMs, RAG, agents and AI-powered applications
-- **Backend Engineering** — APIs, databases, distributed systems and real-time architectures
-- **Cloud & DevOps** — Docker, Kubernetes, CI/CD and cloud infrastructure
-- **System Design** — scalable services, messaging and event-driven systems
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img src="dark_mode.svg" alt="Kanad Shee GitHub profile">
+  </picture>
+</p>
 
 ---
 
@@ -86,25 +80,14 @@ Currently, I'm going deeper into:
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,vercel,git,github,linux,postman,kafka,rabbitmq" />
 </p>
 
+---
+
 ## Currently Learning
 
-- **AI Engineering** — RAG · LLMs · AI Agents · Evaluation
-- **Infrastructure** — Docker · Kubernetes · CI/CD · Cloud Architecture
-- **Backend** — Distributed Systems · Event-Driven Systems · Kafka · System Design
-
-## Connect
-
-<p align="center">
-  <a href="https://kanaddev.me">Website</a>
-  ·
-  <a href="https://github.com/kanadshee">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/kanadshee">LinkedIn</a>
-  ·
-  <a href="https://leetcode.com/kanad_shee">LeetCode</a>
-  ·
-  <a href="https://twitter.com/kanad_shee">X / Twitter</a>
-</p>
+- **AI Engineering** — LLMs, RAG, agents and AI-powered applications
+- **Backend Engineering** — APIs, databases, distributed systems and real-time architectures
+- **Cloud & DevOps** — Docker, Kubernetes, CI/CD and cloud infrastructure
+- **System Design** — scalable services, messaging and event-driven systems
 
 <p align="center">
   <sub>Build things. Understand how they work. Keep improving.</sub>
