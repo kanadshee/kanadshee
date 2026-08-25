@@ -25,8 +25,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode_1.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode_1.svg">
     <img src="dark_mode.svg" alt="Kanad Shee GitHub profile">
   </picture>
 </p>
