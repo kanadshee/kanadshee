@@ -1,6 +1,6 @@
 <h1>Kanad Shee</h1>
 
-<h4>Full-Stack Developer · AI/ML</h4>
+<h3>Full-Stack Developer · AI/ML</h3>
 
 <p>
   <a href="https://kanaddev.me">Website</a>
@@ -18,11 +18,11 @@ I build full-stack web applications — frontend, APIs, databases, and infrastru
 
 ### Stack
 
-**Languages:** TypeScript, JavaScript, Python
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, PostgreSQL, MongoDB, Redis
-**AI/ML:** LangChain, LangGraph, RAG
-**Infra:** Docker, Kubernetes, AWS
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB, Redis
+- **AI/ML:** LangChain, LangGraph, RAG
+- **Infra:** Docker, Kubernetes, AWS
 
 ---
 
