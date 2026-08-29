@@ -20,9 +20,9 @@ I build full-stack web applications — frontend, APIs, databases, and infrastru
 
 - **Languages:** TypeScript, JavaScript, Python
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB, Redis
+- **Backend:** Node.js, Express, Hono, tRPC, gRPC, PostgreSQL, MongoDB, Redis
 - **AI/ML:** LangChain, LangGraph, RAG
-- **Infra:** Docker, Kubernetes, AWS
+- **Infra:** Docker, Kubernetes, AWS, Kafka
 
 ---
 
